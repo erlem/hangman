@@ -1,4 +1,4 @@
 /vendor/*
-!/vendor/Symfony/Component/ClassLoader/UniversalClassLoader.php
+!UniversalClassLoader.php
 composer.lock
 /doc/*
