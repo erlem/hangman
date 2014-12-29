@@ -3,7 +3,7 @@ Hangman game in PHP
 
 Welcome to the Hangman game in PHP.
 
-1) Installing the hangman game
+1) Install the hangman game
 ----------------------------------
 
 Clone the project :
@@ -16,4 +16,11 @@ Update composer :
 
 ```
 composer update
+```
+
+2) Start phpunit
+----------------------------------
+
+```
+phpunit -c . --coverage-html doc/coverage
 ```
